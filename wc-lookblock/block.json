@@ -1,0 +1,15 @@
+{
+	"apiVersion": 2,
+	"name": "create-block/wc-lookblock",
+	"title": "Wc Lookblock",
+	"category": "widgets",
+	"icon": "smiley",
+	"description": "Group WC products in lookbook or virtual showwroom, pick your image with product and attach products from that image. Written with ESNext standard and JSX support – build step required.",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "wc-lookblock",
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css"
+}

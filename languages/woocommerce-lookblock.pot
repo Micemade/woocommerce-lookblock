@@ -1,0 +1,313 @@
+# Copyright (C) 2021 Micemade
+# This file is distributed under the same license as the WooCommerce LookBlock package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce LookBlock 0.1.0\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/woocommerce-lookblock\n"
+"POT-Creation-Date: 2021-05-05 15:20:30+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#: post-types/lookblock.php:9 post-types/lookblock.php:33
+msgid "Lookblocks"
+msgstr ""
+
+#: post-types/lookblock.php:10
+msgid "Lookblock"
+msgstr ""
+
+#: post-types/lookblock.php:11
+msgid "All Lookblocks"
+msgstr ""
+
+#: post-types/lookblock.php:12
+msgid "Lookblock Archives"
+msgstr ""
+
+#: post-types/lookblock.php:13
+msgid "Lookblock Attributes"
+msgstr ""
+
+#: post-types/lookblock.php:14
+msgid "Insert into lookblock"
+msgstr ""
+
+#: post-types/lookblock.php:15
+msgid "Uploaded to this lookblock"
+msgstr ""
+
+#: post-types/lookblock.php:20
+msgid "Filter lookblocks list"
+msgstr ""
+
+#: post-types/lookblock.php:21
+msgid "Lookblocks list navigation"
+msgstr ""
+
+#: post-types/lookblock.php:22
+msgid "Lookblocks list"
+msgstr ""
+
+#: post-types/lookblock.php:23
+msgid "New Lookblock"
+msgstr ""
+
+#: post-types/lookblock.php:24
+msgid "Add New"
+msgstr ""
+
+#: post-types/lookblock.php:25
+msgid "Add New Lookblock"
+msgstr ""
+
+#: post-types/lookblock.php:26
+msgid "Edit Lookblock"
+msgstr ""
+
+#: post-types/lookblock.php:27
+msgid "View Lookblock"
+msgstr ""
+
+#: post-types/lookblock.php:28
+msgid "View Lookblocks"
+msgstr ""
+
+#: post-types/lookblock.php:29
+msgid "Search lookblocks"
+msgstr ""
+
+#: post-types/lookblock.php:30
+msgid "No lookblocks found"
+msgstr ""
+
+#: post-types/lookblock.php:31
+msgid "No lookblocks found in trash"
+msgstr ""
+
+#: post-types/lookblock.php:32
+msgid "Parent Lookblock:"
+msgstr ""
+
+#: post-types/lookblock.php:67
+#. translators: %s: post permalink
+msgid "Lookblock updated. <a target=\"_blank\" href=\"%s\">View lookblock</a>"
+msgstr ""
+
+#: post-types/lookblock.php:68
+msgid "Custom field updated."
+msgstr ""
+
+#: post-types/lookblock.php:69
+msgid "Custom field deleted."
+msgstr ""
+
+#: post-types/lookblock.php:70
+msgid "Lookblock updated."
+msgstr ""
+
+#: post-types/lookblock.php:72
+#. translators: %s: date and time of the revision
+msgid "Lookblock restored to revision from %s"
+msgstr ""
+
+#: post-types/lookblock.php:74
+#. translators: %s: post permalink
+msgid "Lookblock published. <a href=\"%s\">View lookblock</a>"
+msgstr ""
+
+#: post-types/lookblock.php:75
+msgid "Lookblock saved."
+msgstr ""
+
+#: post-types/lookblock.php:77
+#. translators: %s: post permalink
+msgid "Lookblock submitted. <a target=\"_blank\" href=\"%s\">Preview lookblock</a>"
+msgstr ""
+
+#: post-types/lookblock.php:79
+#. translators: 1: Publish box date format, see https:secure.php.net/date 2:
+#. Post permalink
+msgid ""
+"Lookblock scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" "
+"href=\"%2$s\">Preview lookblock</a>"
+msgstr ""
+
+#: post-types/lookblock.php:80
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: post-types/lookblock.php:82
+#. translators: %s: post permalink
+msgid ""
+"Lookblock draft updated. <a target=\"_blank\" href=\"%s\">Preview "
+"lookblock</a>"
+msgstr ""
+
+#: taxonomies/lookblock-category.php:23 taxonomies/lookblock-category.php:40
+msgid "Lookblock categories"
+msgstr ""
+
+#: taxonomies/lookblock-category.php:25
+msgid "Search Lookblock categories"
+msgstr ""
+
+#: taxonomies/lookblock-category.php:26
+msgid "Popular Lookblock categories"
+msgstr ""
+
+#: taxonomies/lookblock-category.php:27
+msgid "All Lookblock categories"
+msgstr ""
+
+#: taxonomies/lookblock-category.php:28
+msgid "Parent Lookblock category"
+msgstr ""
+
+#: taxonomies/lookblock-category.php:29
+msgid "Parent Lookblock category:"
+msgstr ""
+
+#: taxonomies/lookblock-category.php:30
+msgid "Edit Lookblock category"
+msgstr ""
+
+#: taxonomies/lookblock-category.php:31
+msgid "Update Lookblock category"
+msgstr ""
+
+#: taxonomies/lookblock-category.php:32
+msgid "View Lookblock category"
+msgstr ""
+
+#: taxonomies/lookblock-category.php:33
+msgid "Add New Lookblock category"
+msgstr ""
+
+#: taxonomies/lookblock-category.php:34
+msgid "New Lookblock category"
+msgstr ""
+
+#: taxonomies/lookblock-category.php:35
+msgid "Separate lookblock categories with commas"
+msgstr ""
+
+#: taxonomies/lookblock-category.php:36
+msgid "Add or remove lookblock categories"
+msgstr ""
+
+#: taxonomies/lookblock-category.php:37
+msgid "Choose from the most used lookblock categories"
+msgstr ""
+
+#: taxonomies/lookblock-category.php:38
+msgid "No lookblock categories found."
+msgstr ""
+
+#: taxonomies/lookblock-category.php:39
+msgid "No lookblock categories"
+msgstr ""
+
+#: taxonomies/lookblock-category.php:41
+msgid "Lookblock categories list navigation"
+msgstr ""
+
+#: taxonomies/lookblock-category.php:42
+msgid "Lookblock categories list"
+msgstr ""
+
+#: taxonomies/lookblock-category.php:44
+msgid "&larr; Back to Lookblock categories"
+msgstr ""
+
+#: taxonomies/lookblock-category.php:64
+msgid "Lookblock category added."
+msgstr ""
+
+#: taxonomies/lookblock-category.php:65
+msgid "Lookblock category deleted."
+msgstr ""
+
+#: taxonomies/lookblock-category.php:66
+msgid "Lookblock category updated."
+msgstr ""
+
+#: taxonomies/lookblock-category.php:67
+msgid "Lookblock category not added."
+msgstr ""
+
+#: taxonomies/lookblock-category.php:68
+msgid "Lookblock category not updated."
+msgstr ""
+
+#: taxonomies/lookblock-category.php:69
+msgid "Lookblock categories deleted."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce LookBlock"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/Micemade/woocommerce-lookblock"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Group WooCommerce products in lookbooks or showroom using WordPress editor "
+"block called WC Micemade LookBlock"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Micemade"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://micemade.com"
+msgstr ""
+
+#: post-types/lookblock.php:16
+msgctxt "lookblock"
+msgid "Featured Image"
+msgstr ""
+
+#: post-types/lookblock.php:17
+msgctxt "lookblock"
+msgid "Set featured image"
+msgstr ""
+
+#: post-types/lookblock.php:18
+msgctxt "lookblock"
+msgid "Remove featured image"
+msgstr ""
+
+#: post-types/lookblock.php:19
+msgctxt "lookblock"
+msgid "Use as featured image"
+msgstr ""
+
+#: taxonomies/lookblock-category.php:24
+msgctxt "taxonomy general name"
+msgid "Lookblock category"
+msgstr ""
+
+#: taxonomies/lookblock-category.php:43
+msgctxt "lookblock-category"
+msgid "Most Used"
+msgstr ""
